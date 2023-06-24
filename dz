@@ -1,0 +1,7 @@
+echo "# first_project" >> README.md 
+git инициализирует
+git add README.md 
+git commit -m "первая фиксация"
+git branch -M main
+git remote add origin https://github.com/vloid98/first_project.git
+git push -u origin main
