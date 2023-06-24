@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/vloid98/first_project.git
 git push -u origin main
 int rating
+string anntation
